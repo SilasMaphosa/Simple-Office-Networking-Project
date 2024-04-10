@@ -19,3 +19,7 @@ Design a network in Cisco Packet Tracer to connect ACCOUNTS and DELIVERY departm
 - Assigning IP Addresses to Router's interfaces.
 - Static IP Address allocation to Host Devices.
 - Test and Verifying Network Communication.
+
+----------------------------------------------------
+![Simple office Topology](https://github.com/SilasMaphosa/Simple-Office-Networking-Project/assets/121561502/1351977e-5533-403e-8ba4-22c72ae6e638)
+
