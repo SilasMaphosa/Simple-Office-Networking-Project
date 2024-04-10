@@ -10,3 +10,12 @@ Design a network in Cisco Packet Tracer to connect ACCOUNTS and DELIVERY departm
 - Using the given network 192.168.40.0, all interfaces sould be configured with correct IP addresses, subnet mask and gateways.
 - All devices in the network should be connected using appropriate cables.
 - Test communication between devices in both ACCOUNTS and DELIVERY departments.
+
+# Skills Implemented:
+- Creating a Simple Network using a Router and Access Layer Switch.
+- Connecting Networking devices with Correct cabling.
+- Connecting two Networks using a Router.
+- Subnetting and IP Addressing.
+- Assigning IP Addresses to Router's interfaces.
+- Static IP Address allocation to Host Devices.
+- Test and Verifying Network Communication.
