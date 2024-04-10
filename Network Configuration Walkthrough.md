@@ -1,6 +1,6 @@
 # Network Configuration Walkthrough
 -------------------------------------
-## Step 1 
+## Step 1 - Network Topology 
 When looking at the requirements, I could see that I could  fulfil 4 out of 6 requirements just by  designing  the Network Topology.
 
 Requirements:
@@ -11,7 +11,7 @@ Requirements:
 
 ------------------------------------
 ![Simple office Topology](https://github.com/SilasMaphosa/Simple-Office-Networking-Project/assets/121561502/bf35fb30-9320-45fe-b64b-82b6a8210a4a)
-## Step 2
+## Step 2 - Subnetting
 Next I will complete the Following requirement:
 - Using the given network 192.168.40.0, all interfaces sould be configured with correct IP addresses, subnet mask and gateways
 
@@ -30,8 +30,8 @@ I created a table based of what is on https://subnetipv4.com/ to show the IP add
 |---------------------------------------------------|----------------------------|
 |Network ID                                         | 192.168.40.0               |
 | First Host                                        | 192.168.40.1               |
-| Last Host                                         | 192.168.40.126
-| Broadcast                                         | 192.168.40.127
+| Last Host                                         | 192.168.40.126             |
+| Broadcast Address                                 | 192.168.40.127             |
 
 ### Second Subnet
 |Network Info                                       | IP Address                 |
@@ -39,9 +39,15 @@ I created a table based of what is on https://subnetipv4.com/ to show the IP add
 |Network ID                                         | 192.168.40.128             |
 | First Host                                        | 192.168.40.129             |
 | Last Host                                         | 192.168.40.254             |
-| Broadcast                                         | 192.168.40.255             |
+| Broadcast Address                                 | 192.168.40.255             |
 
-Now that I know this network information, I can use this to assist 
+Now that I know this network information, I can use this to assist me when configuring the Router and PCs.
+
+## Step 3 - Router Configuration
+
+
+
+
 
 
 
