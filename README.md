@@ -1,4 +1,4 @@
-# Simple-Office-Networking-Project
+# Simple Office Networking Project
 
 I wanted to be able to demonstrate my network skills. I have started with a simple Office project so that I can show my networking fundamentals. In the next project I will be doing a more challenging project to demonstrate intermediate skills. 
 
